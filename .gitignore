@@ -14,7 +14,7 @@
 #!/shared/include/aa/ProcessDoppelganging_NtfsTransaction.h
 !/shared/include/aa/AA_String.h
 !/shared/include/aa/ArchChecks.h
-!/shared/include/aa/base.h
+!/shared/include/aa/base_processhacker.h
 !/shared/include/aa/EnableDebugPrivilege.h
 !/shared/include/aa/FindProcess.h
 !/shared/include/aa/FreeLibraryBlocker.h
