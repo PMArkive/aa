@@ -3,34 +3,29 @@
 !.gitignore
 
 #!/aanotes.txt
-#!/BitBuf.hpp
-#!/CtrlAltDelete.h
-#!/MapNtdll.h
-#!/ModifiedDEFLATE.hpp
-#!/ProcessDoppelganging_NtfsTransaction.h
 
-!/AA_String.h
-!/ArchChecks.h
-
-!/base.h
-
-!/EnableDebugPrivilege.h
-
-!/FindProcess.h
-!/FreeLibraryBlocker.h
-
-!/GetCurrentExe.h
-!/GetPEB.h
-
-!/InjectDLL_Generic.h
-
-!/manual_GetModuleHandle.h
-!/manual_GetProcAddres.h
-
-!/StringConversions.h
-!/StringConversionsStd.hpp
-
-!/UNICODE_STRING_utils.h
+!/shared
+!/shared/include
+!/shared/include/aa
+#!/shared/include/aa/BitBuf.hpp
+#!/shared/include/aa/CtrlAltDelete.h
+#!/shared/include/aa/MapNtdll.h
+#!/shared/include/aa/ModifiedDEFLATE.hpp
+#!/shared/include/aa/ProcessDoppelganging_NtfsTransaction.h
+!/shared/include/aa/AA_String.h
+!/shared/include/aa/ArchChecks.h
+!/shared/include/aa/base.h
+!/shared/include/aa/EnableDebugPrivilege.h
+!/shared/include/aa/FindProcess.h
+!/shared/include/aa/FreeLibraryBlocker.h
+!/shared/include/aa/GetCurrentExe.h
+!/shared/include/aa/GetPEB.h
+!/shared/include/aa/InjectDLL_Generic.h
+!/shared/include/aa/manual_GetModuleHandle.h
+!/shared/include/aa/manual_GetProcAddres.h
+!/shared/include/aa/StringConversions.h
+!/shared/include/aa/StringConversionsStd.hpp
+!/shared/include/aa/UNICODE_STRING_utils.h
 
 
 
