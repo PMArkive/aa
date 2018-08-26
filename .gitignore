@@ -4,9 +4,9 @@
 
 #!/aanotes.txt
 
-!/shared
-!/shared/include
-!/shared/include/aa
+!/shared/
+!/shared/include/
+!/shared/include/aa/
 #!/shared/include/aa/BitBuf.hpp
 #!/shared/include/aa/CtrlAltDelete.h
 #!/shared/include/aa/MapNtdll.h
@@ -26,6 +26,15 @@
 !/shared/include/aa/StringConversions.h
 !/shared/include/aa/StringConversionsStd.hpp
 !/shared/include/aa/UNICODE_STRING_utils.h
+
+!/driver_antinotepad/
+!/driver_antinotepad/driver_antinotepad/
+!/driver_antinotepad/driver_antinotepad.sln
+!/driver_antinotepad/driver_antinotepad/driver_antinotepad.inf
+!/driver_antinotepad/driver_antinotepad/driver_antinotepad.vcxproj
+!/driver_antinotepad/driver_antinotepad/driver_antinotepad.vcxproj.filters
+!/driver_antinotepad/driver_antinotepad/driver_antinotepad.vcxproj.user
+!/driver_antinotepad/driver_antinotepad/DriverEntry.cpp
 
 
 
