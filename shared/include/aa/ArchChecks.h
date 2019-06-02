@@ -1,5 +1,4 @@
 #pragma once
-#include <Windows.h>
 
 /*
 CS values:
@@ -8,12 +7,12 @@ CS values:
 	32 bits (native) = 0x1B
 */
 
-BOOL AA_Is64bitOS(void)
+bool AA_Is64bitOS(void)
 {
 #ifdef _WIN64
-	return TRUE;
+	return true;
 #else
-	SHORT csValue;
+	short csValue;
 
 	__asm {
 		mov csValue, cs
